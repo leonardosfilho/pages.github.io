@@ -164,6 +164,10 @@ footer span:hover {
     color:#ff5100;
 }
 
+footer a:hover {
+    color: #fff;
+}
+
 .goku img{ 
     display: none;
     position: absolute;
